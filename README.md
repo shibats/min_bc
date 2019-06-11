@@ -3,7 +3,7 @@
 
 書籍「[みんなのブロックチェーン](https://www.amazon.co.jp/dp/4797398965)」のサンプルプログラム用のリポジトリです。
 
-<img src="https://coreblog.org/static/images/minbc.jpg" height="300"/>
+<a href="https://www.amazon.co.jp/dp/4797398965"><img src="https://coreblog.org/static/images/minbc.jpg" height="300"/></a>
 
 ## サンプルプログラムの使い方
 
